@@ -4,7 +4,8 @@
 **Sandra Nikoloska** — University of Bern — sandra.nikoloska@unibe.ch  
 **Boris Verdecia Echarte** — University of Neuchâtel — boris.verdecia@unine.ch
 
-*Deep Learning Course 2026 — University of Bern | Professor: Paolo Favaro*
+*Deep Learning Course 2026 — University of Bern*  
+*Professor: Paolo Favaro*
 
 ---
 
