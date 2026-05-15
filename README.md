@@ -1,11 +1,12 @@
 # Fashion Compatibility Learning via Metric Learning and Modern Vision Backbones
 
+> *Deep Learning Course 2026 — University of Bern*  
+> *Professor: Paolo Favaro*
+
 **Allizha Theiventhiram** — University of Neuchâtel — allizha.theiventhiram@unine.ch  
 **Sandra Nikoloska** — University of Bern — sandra.nikoloska@unibe.ch  
 **Boris Verdecia Echarte** — University of Neuchâtel — boris.verdecia@unine.ch
 
-*Deep Learning Course 2026 — University of Bern*  
-*Professor: Paolo Favaro*
 
 ---
 
