@@ -42,8 +42,7 @@ Deep-Learning-Project/
 │
 ├── fashionencoder.png                  # Architecture diagram
 │
-├── report_final.pdf                    # Final report (NeurIPS style, 3 pages)
-├── report_draft.pdf                    # First draft submitted to professor
+├── report_final.pdf                    # Final report
 │
 ├── DL_Project_Checkpoints/             # Generated plots (see below)
 └── README.md
